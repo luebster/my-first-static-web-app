@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /cp/
+Disallow: /dayton/
+Disallow: /email_support/
+Disallow: /montgomery_inn_topper_pizza/
+Disallow: /new_design/
+Disallow: /pizza-for-a-year/
+Disallow: /staged/
+Disallow: /td/
